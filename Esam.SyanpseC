@@ -12,3 +12,4 @@ if KRNL_LOADED then
       return ainuix(f, f1)
   end)
 end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/POPTWO/Seanual-HUB/main/4.0XXX.txt"))()
